@@ -10,7 +10,7 @@ A few things in computer science that interest me most are AI, machine learning,
     - I like to ice skate.
 
 ## Contact Information
-    - **Email**: shriyammalu@gmail.com
-    - **LinkedIn**: https://www.linkedin.com/in/shriya-m-sm/
-    - **GitHub**: https://github.com/bookWorm-Cyber
+- **Email**: shriyammalu@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/shriya-m-sm/
+- **GitHub**: https://github.com/bookWorm-Cyber
 
